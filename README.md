@@ -13,3 +13,10 @@
 |Frontend|Backend|Ai|
 |:---:|:---:|:---:|
 |<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <br>| <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=flat-square&logo=django&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"><br>|<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>  <img src="https://img.shields.io/badge/yolo v5-512BD4?style=for-the-badge&logo=&logoColor=white"><br> |
+
+## 시스템 시나리오
+![시스템 시나리오](https://github.com/gaeull/Fish-species-detection-system/assets/103443650/47b340a9-4087-482a-a4e3-af84e38c7868)
+
+## 시스템 구성도
+![시스템 구성도](https://github.com/gaeull/Fish-species-detection-system/assets/103443650/acaec221-8a86-4e4d-bb23-6748b634d0d1)
+
